@@ -1,30 +1,3 @@
-<style>
-    section {
-    position: relative ; 
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;    
-    overflow: hidden;
-
-}
-
-
-section .text {
-    position: relative; 
-    font-size: 3em;
-    color: #7cf62c;
-    text-align: center  ;
-    -webkit-box-reflect: below -15px linear-gradient(transparent, rgba(224, 18, 18, 0.333));
-}
-
-section .text span  {
-    position: relative;
-    display: inline-block;
-}
-</style>
 
 
 
@@ -33,16 +6,11 @@ section .text span  {
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adhil+ibn+mrzk!;" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adhil+ibn+mrzk!;" />
     
 </h1>
 
-<section>
-            <h3 class="text">
-                Developed by Nuckz
-            </h3>
 
-</section>
 
 
 
@@ -118,40 +86,3 @@ section .text span  {
 </div>
 
 <br/>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
-
-<script>
-     const  text = document.querySelector('.text');
-        text.innerHTML =  text.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
-
-
-        anime.timeline({
-                loop: true
-            })
-
-        .add({
-            targets: '.text span',
-            translateY: [-600, 0],
-            opacity: [0, 1],
-            scale: [10, 1],
-            easing: 'easeOutExpo',
-            duration: 1500,
-            delay: anime.stagger(100) 
-        }) 
-
-
-    
-
-        .add({
-            targets: '.text span',
-            translateX: [0, 0],
-            opacity: [1, 0],
-            scale: [1, 50],
-            easing: 'easeOutExpo',
-            duration: 1500,
-            delay: anime.stagger(100) 
-        }) 
-</script>
-
-

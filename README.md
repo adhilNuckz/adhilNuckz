@@ -30,7 +30,7 @@ status: Actively seeking Software Engineering internships
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adhilNuckz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=adhilNuckz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ Serverless remote administration utility exploring lightweight architectures for
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilNuckz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&hide=html&langs_count=8"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adhilNuckz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&hide=html&langs_count=8"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=adhilNuckz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC"/>
 </div>
 

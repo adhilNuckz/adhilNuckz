@@ -10,6 +10,18 @@
 
 <br/>
 
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-mikeadhil2002%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:mikeadhil2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin%2Fadhilmk-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://linkedin.com/in/adhilmk)
+[![Portfolio](https://img.shields.io/badge/-adhilmk.nighttime.online-0d1117?style=for-the-badge&logo=vercel&logoColor=00FFCC)](https://adhilmk.nighttime.online)
+
+</div>
+
+<br/>
+
+
 <table align="center" border="0">
 <tr>
 <td width="60%" valign="top">
@@ -36,15 +48,7 @@ status: Actively seeking Software Engineering internships
 </tr>
 </table>
 
-<br/>
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-mikeadhil2002%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:mikeadhil2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin%2Fadhilmk-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://linkedin.com/in/adhilmk)
-[![Portfolio](https://img.shields.io/badge/-adhilmk.nighttime.online-0d1117?style=for-the-badge&logo=vercel&logoColor=00FFCC)](https://adhilmk.nighttime.online)
-
-</div>
 
 <br/>
 

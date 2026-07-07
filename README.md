@@ -202,6 +202,12 @@ Serverless remote administration utility exploring lightweight architectures for
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/adhilNuckz/adhilNuckz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer"/>
 </div>
 

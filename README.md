@@ -1,80 +1,210 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=ADHIL%20MARZOOK&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20%26%20DevOps%20%7C%20AI-Augmented%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 
+<a href="https://github.com/adhilNuckz">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Owning+the+code+%2B+the+VPS+it+runs+on;React+%C2%B7+Node.js+%C2%B7+Docker+%C2%B7+Linux;Currently%3A+hunting+internships+%26+shipping" />
+</a>
 
+</div>
 
+<br/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<table align="center" border="0">
+<tr>
+<td width="60%" valign="top">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adhil+ibn+mrzk!;" />
-    
-</h1>
+### `whoami`
 
+Final-year Computer Science undergraduate (Eastern University of Sri Lanka) and self-taught full-stack builder who prefers shipping deployed, working systems over theoretical exercises. Comfortable owning a project end-to-end — from the codebase to the VPS it lives on.
 
+Background spans **full-stack web development**, **Linux systems administration**, and **cloud/DevOps pipelines**, with production-facing work built under real deadlines.
 
+```yaml
+role: Software Engineer / Full-Stack Developer
+focus: [Web Development, Systems Infra, DevOps]
+currently_learning: [Networking, Cybersecurity, Advanced App Dev]
+status: Actively seeking Software Engineering internships
+```
 
+</td>
+<td width="40%" valign="top" align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=adhilNuckz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true" width="100%"/>
 
-
-<h3 align="center">A passionate software developer from SRI LankA </h3>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **my owns...**
- 
- 🌱 I’m currently learning **Networking , Cyber Security , full stack , app dev**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+[![Gmail](https://img.shields.io/badge/-mikeadhil2002%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:mikeadhil2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin%2Fadhilmk-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://linkedin.com/in/adhilmk)
+[![Portfolio](https://img.shields.io/badge/-adhilmk.nighttime.online-0d1117?style=for-the-badge&logo=vercel&logoColor=00FFCC)](https://adhilmk.nighttime.online)
 
-⚡ Fun fact ** DEVILS ALSO ONCE AN ANGEL**
-
- </div>
- 
-<div align="center"> 
-  <a href="https://mail.google.com/mail/u/?authuser=mikeadhil2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/adhil-cbr-hunter-93a673299/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://Bnty-hun7er.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adhilNuckz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=adhilNuckz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adhilNuckz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
 
 <br/>
 
 <div align="center">
-<a href='https://coff.ee/adhilmk' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Tech%20Stack&fontSize=25&fontColor=00FFCC&fontAlign=50&fontAlignY=70"/>
+</div>
+
+<table align="center" border="0">
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,c,bash&theme=dark" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Backend & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,mysql&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+**DevOps & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,vscode&theme=dark" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**AI Tooling**
+<br/>
+<img src="https://img.shields.io/badge/-Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=00FFCC" /><br/>
+<img src="https://img.shields.io/badge/-OpenCode-0d1117?style=for-the-badge&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/-Codex-0d1117?style=for-the-badge&logoColor=00FFCC" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Other**
+<br/>
+<img src="https://img.shields.io/badge/-Server%20Mgmt-0d1117?style=for-the-badge&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/-PenTest%20(fnd.)-0d1117?style=for-the-badge&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/-n8n-0d1117?style=for-the-badge&logoColor=00FFCC" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Featured%20Builds&fontSize=25&fontColor=00FFCC&fontAlign=50&fontAlignY=70"/>
+</div>
+
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Linux Server Manager
+**Final Year Project** — `Node.js` `React` `Docker` `PM2`
+
+Full-stack, browser-based server management dashboard with real-time process monitoring, Docker container control, and remote deployment pipelines — built to close gaps in existing open-source tools.
+
+[`→ Repository`](https://github.com/adhilNuckz/finalproject)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Digitel Hosting Platform
+**Self-Service Hosting** — `Node.js` `React` `PM2` `Cloud`
+
+Self-service frontend hosting platform with free subdomain provisioning, REST API integration, and full deployment lifecycle management — DNS to uptime monitoring.
+
+[`→ Repository`](https://github.com/adhilNuckz/digitel-frontend-hoster) · [`→ Live`](https://digitel.nighttime.online)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📁 gdup — Google Drive CLI Manager
+`Python` `Linux` `Windows`
+
+Cross-platform CLI tool for managing Google Drive files and programmatically generating shareable links.
+
+[`→ Repository`](https://github.com/adhilNuckz/g-dup) · [`→ Live`](https://gdup.nighttime.online)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕶️ ZigZag
+`Tor` `React` `Node.js`
+
+Decentralized, privacy-first social platform built to operate entirely over the Tor network.
+
+[`→ Repository`](https://github.com/adhilNuckz/zigzag)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ Personal Portfolio
+`Next.js` `GSAP` `Lenis` `VPS`
+
+Cinematic portfolio with scroll-driven animation and inertia scrolling, self-hosted and deployed on a custom VPS with subdomain routing.
+
+[`→ Live`](https://adhilmk.nighttime.online)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ T-Rat
+**Serverless RAT** — `Python` `Windows` `Cloud`
+
+Serverless remote administration utility exploring lightweight architectures for remote system management without dedicated backend infrastructure.
+
+[`→ Repository`](https://github.com/adhilNuckz)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Activity&fontSize=25&fontColor=00FFCC&fontAlign=50&fontAlignY=70"/>
+</div>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilNuckz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&hide=html&langs_count=8"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=adhilNuckz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC"/>
 </div>
 
 <br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adhilNuckz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer"/>
+</div>
+
+<div align="center">
+<sub>Open to Software Engineering, Full-Stack, and DevOps internship opportunities — Sri Lanka & remote.</sub>
+</div>

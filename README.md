@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=ADHIL%20MARZOOK&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20%26%20DevOps%20%7C%20AI-Augmented%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+<img src="banner-header.svg" width="100%"/>
 
 <a href="https://github.com/adhilNuckz">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Owning+the+code+%2B+the+VPS+it+runs+on;React+%C2%B7+Node.js+%C2%B7+Docker+%C2%B7+Linux;Currently%3A+hunting+internships+%26+shipping" />
@@ -48,9 +48,8 @@ status: Actively seeking Software Engineering internships
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Tech%20Stack&fontSize=25&fontColor=00FFCC&fontAlign=50&fontAlignY=70"/>
-</div>
+<h3 align="center">💠 Tech Stack</h3>
+<p align="center"><sub>—————————————————————</sub></p>
 
 <table align="center" border="0">
 <tr>
@@ -107,9 +106,8 @@ status: Actively seeking Software Engineering internships
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Featured%20Builds&fontSize=25&fontColor=00FFCC&fontAlign=50&fontAlignY=70"/>
-</div>
+<h3 align="center">🚀 Featured Builds</h3>
+<p align="center"><sub>—————————————————————</sub></p>
 
 <table align="center" border="0" width="100%">
 <tr>
@@ -182,9 +180,8 @@ Serverless remote administration utility exploring lightweight architectures for
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Activity&fontSize=25&fontColor=00FFCC&fontAlign=50&fontAlignY=70"/>
-</div>
+<h3 align="center">📊 Activity</h3>
+<p align="center"><sub>—————————————————————</sub></p>
 
 <div align="center">
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adhilNuckz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&hide=html&langs_count=8"/>
@@ -208,7 +205,7 @@ Serverless remote administration utility exploring lightweight architectures for
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer"/>
+<img src="banner-footer.svg" width="100%"/>
 </div>
 
 <div align="center">

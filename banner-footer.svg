@@ -1,0 +1,23 @@
+<svg width="1000" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0f0f0f"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#00ffcc" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="100" fill="url(#bg2)"/>
+
+  <path fill="url(#wave2)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,20 C250,60 750,-20 1000,20 L1000,0 L0,0 Z;
+        M0,10 C250,-20 750,60 1000,10 L1000,0 L0,0 Z;
+        M0,20 C250,60 750,-20 1000,20 L1000,0 L0,0 Z" />
+  </path>
+</svg>

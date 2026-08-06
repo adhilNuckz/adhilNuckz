@@ -3,7 +3,7 @@
 <img src="banner-header.svg" width="100%"/>
 
 <a href="https://github.com/adhilNuckz">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Owning+the+code+%2B+the+VPS+it+runs+on;React+%C2%B7+Node.js+%C2%B7+Docker+%C2%B7+Linux;Currently%3A+hunting+internships+%26+shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Owning+the+code+%2B+the+VPS+it+runs+on;React+%C2%B7+Node.js+%C2%B7+Docker+%C2%B7+Linux;Currently%3A+hunting+Bugs&Rabbits+%26+shipping" />
 </a>
 
 </div>

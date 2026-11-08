@@ -1,23 +1,39 @@
-<svg width="1000" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="100%">
   <defs>
-    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#0f0f0f"/>
+    <linearGradient id="footerRgb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0055">
+        <animate attributeName="stop-color" values="#FF0055;#FFD700;#00F0FF;#FF0055" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#FFF200;#FF0055;#FFD700" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00F0FF">
+        <animate attributeName="stop-color" values="#00F0FF;#FF0055;#FFD700;#00F0FF" dur="4s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.12"/>
-      <stop offset="50%" stop-color="#00ffcc" stop-opacity="0.04"/>
-      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0.12"/>
-    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
 
-  <rect width="1000" height="100" fill="url(#bg2)"/>
+  <rect width="1200" height="120" fill="#090A0F" />
 
-  <path fill="url(#wave2)">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-        M0,20 C250,60 750,-20 1000,20 L1000,0 L0,0 Z;
-        M0,10 C250,-20 750,60 1000,10 L1000,0 L0,0 Z;
-        M0,20 C250,60 750,-20 1000,20 L1000,0 L0,0 Z" />
+  <!-- Animated Gold Electric Sine Wave -->
+  <path d="M 0 60 Q 150 10, 300 60 T 600 60 T 900 60 T 1200 60" fill="none" stroke="url(#footerRgb)" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="d" values="M 0 60 Q 150 10, 300 60 T 600 60 T 900 60 T 1200 60;
+              M 0 60 Q 150 110, 300 60 T 600 60 T 900 60 T 1200 60;
+              M 0 60 Q 150 10, 300 60 T 600 60 T 900 60 T 1200 60" dur="2s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Secondary High-Voltage Yellow Spark Wave -->
+  <path d="M 0 60 Q 150 100, 300 60 T 600 60 T 900 60 T 1200 60" fill="none" stroke="#FFEE00" stroke-width="1.5" opacity="0.7" filter="url(#glow)">
+    <animate attributeName="d" values="M 0 60 Q 150 100, 300 60 T 600 60 T 900 60 T 1200 60;
+              M 0 60 Q 150 20, 300 60 T 600 60 T 900 60 T 1200 60;
+              M 0 60 Q 150 100, 300 60 T 600 60 T 900 60 T 1200 60" dur="1.4s" repeatCount="indefinite" />
   </path>
 </svg>
